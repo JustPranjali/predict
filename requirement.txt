@@ -1,0 +1,8 @@
+numpy==1.24.3          # For numerical computations and handling arrays
+pandas==1.5.3          # For structured data handling (e.g., time slots, price data)
+matplotlib==3.7.1      # For any potential visualization of prices
+streamlit==1.24.0      # If integrated with Streamlit for app creation
+yfinance==0.2.26       # If stock data is fetched from Yahoo Finance
+scikit-learn==1.2.2    # For any preprocessing like normalization
+tensorflow==2.10.0     # If using TensorFlow models (e.g., LSTM)
+keras==2.10.0          # For building LSTM or similar models
